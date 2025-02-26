@@ -25,6 +25,7 @@ Read the exam instructions to find out what to develop
 ## Authors
 
 * **Daan de Waard** - *Initial work* - [dwaard](https://github.com/dwaard)
+* **Gijs Borghouts** - *Exam Taker* - [SirAdolphus](https://github.com/SirAdolphus)
 
 ## Acknowledgements
 
